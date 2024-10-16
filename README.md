@@ -1,7 +1,3 @@
-<div align="center">
-  <h3 align="center">A Full Stack Next 14 Events App</h3>
-</div>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Powered by Next.js 14, this events application offers a comprehensive, full-stack solution for event management. It serves as a central hub, showcasing a variety of events happening around the world. With seamless Stripe integration, users can easily purchase tickets or create and manage their own events.
